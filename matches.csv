@@ -1,0 +1,108 @@
+Winner;Loser;Player;Runs/Goals;Venue;Date;Sport;Gender;Toss Decision
+India;West Indies;Rohit Sharma;145;Eden Gardens;2025-07-12;Cricket;Men;Bat
+Australia;South Africa;David Warner;88;MCG;2025-08-20;Cricket;Men;Bowl
+Pakistan;England;Babar Azam;101;Gaddafi Stadium;2024-10-15;Cricket;Men;Bat
+England;India;Joe Root;97;Lords;2024-09-05;Cricket;Men;Bowl
+South Africa;Sri Lanka;Quinton de Kock;116;Centurion;2025-02-03;Cricket;Men;Bat
+Mumbai Indians;CSK;Ishan Kishan;97;Wankhede;2024-04-17;Cricket;Men;Bowl
+Kolkata Knight Riders;RCB;Andre Russell;76;Eden Gardens;2025-05-09;Cricket;Men;Bat
+India;Sri Lanka;KL Rahul;90;Bengaluru;2024-12-22;Cricket;Men;Bat
+CSK;Delhi Capitals;MS Dhoni;70;Chennai;2025-04-05;Cricket;Men;Bowl
+India;South Africa;Virat Kohli;122;Chennai;2025-11-14;Cricket;Men;Bat
+India;South Africa;Shubman Gill;102;Guwahati;2025-11-22;Cricket;Men;Bowl
+India;South Africa;Rohit Sharma;110;Ranchi;2025-11-30;Cricket;Men;Bowl
+
+Australia Women;Sri Lanka Women;Ashleigh Gardner;115;R.Premadasa Stadium;2025-10-04;Cricket;Women;Bat
+India Women;Sri Lanka Women;Amanjot Kaur;57;Guwahati;2025-09-30;Cricket;Women;Bowl
+Australia Women;New Zealand Women;Sophie Devine;112;MCG;2025-10-01;Cricket;Women;Bat
+England Women;South Africa Women;Heather Knight;84;Indore;2025-10-23;Cricket;Women;Bowl
+South Africa Women;Pakistan Women;Laura Wolvaardt;110;Colombo;2025-10-21;Cricket;Women;Bat
+Delhi Capitals Women;Mumbai Indians Women;Shafali Verma;103;Arun Jaitley Stadium;2025-04-06;Cricket;Women;Bowl
+RCB Women;UP Warriorz Women;Smriti Mandhana;91;Bengaluru;2025-02-14;Cricket;Women;Bat
+Mumbai Indians Women;RCB Women;Harmanpreet Kaur;74;Wankhede;2025-02-17;Cricket;Women;Bat
+
+Chelsea Women;Arsenal Women;Sam Kerr;2;Stamford Bridge;2025-05-14;Football;Women
+Manchester City Women;West Ham Women;Lauren Hemp;3;Academy Stadium;2025-04-24;Football;Women
+Liverpool Women;Brighton Women;Ceri Holland;2;Anfield;2025-02-19;Football;Women
+Barcelona Women;OHL Leuven Ladies;Asisat Oshoala;3;Estadi Johan Cruyff;2025-11-12;Football;Women
+Real Madrid Women;Paris FC Women;Athenea del Castillo;2;Madrid;2025-11-11;Football;Women
+Arsenal Women;Tottenham Hotspur Women;Vivianne Miedema;1;Emirates Stadium;2025-11-08;Football;Women
+Manchester City Women;Chelsea Women;Chloe Kelly;2;Academy Stadium;2025-10-18;Football;Women
+WSLFC;WSLRMA;Alexia Putellas;2;Mini Estadi;2025-10-17;Football;Women
+Paris FC Women;Liverpool Women;Sandy Baltimore;1;Paris;2025-08-16;Football;Women
+
+Brighton and Hove Albion;Leeds United;Evan Ferguson;2;American Express Stadium;2025-03-21;Football;Men
+Leeds United;Brighton and Hove Albion;Georginio Rutter;3;Elland Road;2025-01-18;Football;Men
+Burnley;Arsenal;Jacob Bruun Larsen;1;Turf Moor;2025-02-22;Football;Men
+Arsenal;Burnley;Bukayo Saka;2;Emirates Stadium;2025-03-28;Football;Men
+Crystal Palace;Brentford;Eberechi Eze;1;Selhurst Park;2025-03-09;Football;Men
+Brentford;Crystal Palace;Ivan Toney;2;Gtech Community Stadium;2025-04-12;Football;Men
+Fulham;Wolverhampton Wanderers;Andreas Pereira;3;Craven Cottage;2025-02-04;Football;Men
+Wolverhampton Wanderers;Fulham;Matheus Cunha;1;Molineux Stadium;2025-03-05;Football;Men
+Nottingham Forest;Manchester United;Morgan Gibbs-White;2;The City Ground;2025-02-27;Football;Men
+Manchester United;Nottingham Forest;Marcus Rashford;3;Old Trafford;2025-03-14;Football;Men
+Tottenham Hotspur;Chelsea;Heung-min Son;2;Tottenham Hotspur Stadium;2025-04-10;Football;Men
+Chelsea;Tottenham Hotspur;Raheem Sterling;1;Stamford Bridge;2025-02-19;Football;Men
+Liverpool;Aston Villa;Mohamed Salah;3;Anfield;2025-03-21;Football;Men
+Aston Villa;Liverpool;Ollie Watkins;2;Villa Park;2025-01-17;Football;Men
+West Ham United;Newcastle United;Jarrod Bowen;2;London Stadium;2025-02-11;Football;Men
+Newcastle United;West Ham United;Alexander Isak;3;St James' Park;2025-03-17;Football;Men
+Manchester City;Bournemouth;Erling Haaland
+
+Chelsea Women;London City Lionesses;Sam Kerr;2;Stamford Bridge;2025-02-10;Football;Women
+London City Lionesses;Chelsea Women;Atlanta Primus;1;Princes Park;2025-03-05;Football;Women
+Manchester City Women;West Ham United Women;Chloe Kelly;3;Academy Stadium;2025-03-19;Football;Women
+West Ham United Women;Manchester City Women;Dagny Brynjarsdottir;2;Chigwell Construction Stadium;2025-01-22;Football;Women
+Arsenal Women;Tottenham Hotspur Women;Vivianne Miedema;4;Emirates Stadium;2025-02-15;Football;Women
+Tottenham Hotspur Women;Arsenal Women;Beth England;2;Brisbane Road;2025-03-28;Football;Women
+Liverpool Women;Brighton and Hove Albion Women;Ceri Holland;3;Anfield;2025-03-03;Football;Women
+Brighton and Hove Albion Women;Liverpool Women;Katie Robinson;2;Broadfield Stadium;2025-04-06;Football;Women
+Real Madrid Women;Paris FC Women;Athenea del Castillo;1;Madrid;2025-05-06;Football;Women
+Paris FC Women;Real Madrid Women;Gaetane Thiney;2;Stade Charléty;2025-06-14;Football;Women
+Barcelona Women;OHL Leuven Ladies;Claudia Pina;3;Estadi Johan Cruyff;2025-01-12;Football;Women
+OHL Leuven Ladies;Barcelona Women;Sanne Troelsgaard;2;Den Dreef;2025-02-08;Football;Women
+
+CSK;RCB;MS Dhoni;65;Chennai;2022-05-01;Cricket;Men
+RCB;MI;Virat Kohli;94;Bangalore;2022-05-03;Cricket;Men
+CSK;MI;MS Dhoni;72;Delhi;2022-05-04;Cricket;Men
+MI;CSK;AB de Villiers;101;Mumbai;2022-05-05;Cricket;Men
+RCB;CSK;MS Dhoni;57;Delhi;2022-05-07;Cricket;Men
+MI;RCB;Virat Kohli;88;Mumbai;2022-06-12;Cricket;Men
+CSK;RCB;AB de Villiers;99;Chennai;2022-06-21;Cricket;Men
+CSK;MI;AB de Villiers;104;Delhi;2022-06-30;Cricket;Men
+MI;RCB;Rohit Sharma;78;Mumbai;2022-06-15;Cricket;Men
+RCB;MI;Ruturaj Gaikwad;86;Bangalore;2022-06-18;Cricket;Men
+SUPERGIANTS;CSK;KL Rahul;49;Lucknow;2022-06-22;Cricket;Men
+
+CSK;MI;Mithali Raj;72;Chennai;2022-05-22;Cricket;Women
+RCB;CSK;Smriti Mandhana;61;Delhi;2022-05-23;Cricket;Women
+MI;RCB;Jemimah Rodrigues;55;Mumbai;2022-05-24;Cricket;Women
+CSK;MI;Mithali Raj;62;Delhi;2022-05-29;Cricket;Women
+MI;SUPERGIANTS;Shafali Verma;49;Mumbai;2022-06-05;Cricket;Women
+RCB;MI;Harmanpreet Kaur;70;Mumbai;2022-06-10;Cricket;Women
+SUPERGIANTS;RCB;Smriti Mandhana;54;Lucknow;2022-06-13;Cricket;Women
+CSK;SUPERGIANTS;Jemimah Rodrigues;59;Chennai;2022-06-16;Cricket;Women
+SUPERGIANTS;MI;Shafali Verma;61;Lucknow;2022-06-19;Cricket;Women
+MI;CSK;Harmanpreet Kaur;58;Mumbai;2022-06-21;Cricket;Women
+
+FCB;RMA;Lionel Messi;3;Camp Nou;2022-10-19;Football;Men
+RMA;FCB;Karim Benzema;2;Bernabeu;2022-11-02;Football;Men
+PSG;MCFC;Neymar;2;Parc des Princes;2022-09-21;Football;Men
+FCB;PSG;Ansu Fati;2;Camp Nou;2022-10-05;Football;Men
+RMA;MCFC;Vinicius Jr;3;Bernabeu;2022-10-16;Football;Men
+MCFC;FCB;Kevin De Bruyne;2;Etihad;2022-10-28;Football;Men
+PSG;FCB;Lionel Messi;4;Parc des Princes;2022-11-11;Football;Men
+MCFC;PSG;Neymar;3;Etihad;2022-12-01;Football;Men
+FCB;MCFC;Robert Lewandowski;5;Camp Nou;2022-12-02;Football;Men
+RMA;PSG;Eden Hazard;2;Bernabeu;2022-11-10;Football;Men
+
+WSLFC;WSLRMA;Alexia Putellas;3;Mini Estadi;2022-05-10;Football;Women
+WSLRMA;WSLFC;Asisat Oshoala;2;Alfredo Di Stefano;2022-05-17;Football;Women
+WSLPSG;WSLMCFC;Marie-Antoinette Katoto;3;Jean Bouin;2022-05-21;Football;Women
+WSLMCFC;WSLPSG;Sam Kerr;2;Academy Stadium;2022-05-28;Football;Women
+WSLFC;WSLPSG;Lieke Martens;2;Mini Estadi;2022-06-04;Football;Women
+WSLRMA;WSLMCFC;Claudia Pina;2;Alfredo Di Stefano;2022-06-11;Football;Women
+WSLMCFC;WSLFC;Beth Mead;3;Academy Stadium;2022-06-18;Football;Women
+WSLPSG;WSLRMA;Irene Paredes;2;Jean Bouin;2022-06-25;Football;Women
+WSLFC;WSLRMA;Alexia Putellas;2;Mini Estadi;2022-07-01;Football;Women
+WSLRMA;WSLFC;Caroline Graham Hansen;1;Alfredo Di Stefano;2022-07-08;Football;Women
