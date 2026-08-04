@@ -1,0 +1,329 @@
+:root {
+    --primary-bg: #fcf6ff;
+    --accent: #a1e8f7;
+    --pink: #ffe2f6;
+    --purple: #c7b8fe;
+    --genz-green: #d4fff1;
+    --blue-pastel: #e4f0fb;
+    --deep: #3a3670;
+    --accent-color: #9a7efd;
+    --secondary-accent: #feb8d1;
+    --text-color: #3a3670;
+    --border-color: #e3daff;
+}
+
+/* BODY + DEFAULT LAYOUT */
+body, .main, [data-testid="stAppViewContainer"] > .main {
+    background: linear-gradient(120deg, var(--primary-bg) 0%, var(--accent) 56%, var(--pink) 100%);
+    color: var(--text-color);
+    font-family: 'Poppins', Arial, sans-serif;
+    padding: 1rem 2rem;
+}
+
+/* APP TITLE */
+.main-app-title, h1 {
+    text-align: center;
+    color: var(--accent-color);
+    background: linear-gradient(90deg, #e4f0fb 38%, #ffe2f6 100%);
+    font-size: 2.6em;
+    font-weight: 700;
+    border-radius: 24px;
+    padding: 20px 10px;
+    margin: 30px 0 30px 0;
+    letter-spacing: 0.5px;
+    font-family: 'Montserrat', 'Luckiest Guy', 'Poppins', cursive;
+    text-shadow: 0 2px 18px #a7e9ea42;
+    box-shadow: 0px 6px 20px #e4daff70;
+}
+
+/* SECTION HEADINGS */
+h2, h3 {
+    color: var(--accent-color);
+    background: linear-gradient(90deg, #a1e8f7 8%, #ffe2f6 100%);
+    text-align: center;
+    padding: 12px 18px;
+    margin: 40px 0 20px 0;
+    border-radius: 13px;
+    font-family: 'Poppins', 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 1.6em;
+    box-shadow: 0 2px 15px #b9bbe020;
+}
+
+/* INSTRUCTION BOX */
+.instruction-box-final {
+    max-width: 650px;
+    background: linear-gradient(90deg, #c7b8fe 10%, #ffe2f6 100%);
+    color: #3a3670;
+    padding: 22px 35px;
+    border-radius: 18px;
+    text-align: center;
+    font-size: 1.1em;
+    box-shadow: 0 8px 24px #bc9cff44;
+    border: 2.5px solid #9a7efd;
+    font-family: 'Quicksand', 'Montserrat', 'Poppins', cursive;
+    margin: 40px auto 40px auto;
+    line-height: 1.5;
+}
+
+/* METRICS */
+.stMetric {
+    background: linear-gradient(87deg, var(--genz-green) 60%, #ffe2f6 100%);
+    color: var(--deep);
+    border-radius: 16px;
+    box-shadow: 0 3px 18px #b8e0ff50;
+    margin: 16px auto;
+    display: block;
+    text-align: center;
+    padding: 10px 15px;
+    font-family: 'Montserrat', 'Poppins', Arial, sans-serif;
+    font-size: 1.1em;
+    transition: 0.2s ease-in-out;
+}
+.stMetric:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 22px #ceccfa74;
+}
+
+/* PLOT & TABLE WRAPPERS */
+.stDataFrame, .stPlotlyChart, .stAlert, .stTable {
+    background: linear-gradient(90deg, #f6f7fc, #eafff7 60%, #ffe2f6 100%);
+    border-radius: 20px;
+    box-shadow: 0 3px 28px #bfb6ff30;
+    border: none;
+    padding: 25px 24px;
+    margin: 30px 0;
+}
+
+.stTable td, .stTable th {
+    background: #fff6fd;
+    color: var(--deep);
+    padding: 15px 22px;
+    font-size: 1.05em;
+    border-radius: 8px;
+    border: none;
+}
+
+/* SIDEBAR */
+[data-testid="stSidebar"], .stSidebar {
+    background: linear-gradient(120deg, var(--accent) 10%, #f6efff 78%, var(--purple) 100%);
+    border-right: 3px solid #f9e8ff;
+    color: var(--deep);
+    padding: 1rem;
+}
+[data-testid="stSidebar"] h1, 
+[data-testid="stSidebar"] label, 
+[data-testid="stSidebar"] span {
+    color: var(--accent-color) !important;
+    font-size: 1em !important;
+    font-family: 'Quicksand', 'Montserrat', 'Poppins', serif;
+    letter-spacing: 1px;
+}
+/* Find this block in your style.css and ensure it looks like this: */
+[data-testid="stSidebar"] .stTextInput>div>input,
+[data-testid="stSidebar"] .stSelectbox,
+[data-testid="stSidebar"] .stRadio > label,
+[data-testid="stSidebar"] .stButton button,
+[data-testid="stSidebar"] .stRadio { 
+    padding: 0.5em 0.8em; 
+    background: linear-gradient(90deg, #e9eafc, #ffe2f6 90%);
+    color: var(--deep);
+    border-radius: 12px;
+    border: 2px solid var(--purple);
+    font-size: 1.05em; /* Slightly reduced font size for a tighter look */
+    
+    /* Reduced vertical margin */
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}
+
+/* BUTTONS */
+button, .stButton button {
+    border-radius: 15px !important;
+    transition: box-shadow .17s, background .12s, transform .18s;
+    background: linear-gradient(90deg, #e6f7fa 24%, #ffe2f6 90%);
+    font-family: 'Poppins', Arial, sans-serif;
+    border: 2px solid var(--accent-color);
+}
+button:hover, .stButton button:hover {
+    box-shadow: 0 0 35px #d0bbfe66;
+    border-color: var(--secondary-accent);
+    transform: translateY(-3px);
+}
+
+/* SPACERS / DIVIDERS */
+hr, .stDivider {
+    border: none;
+    border-top: 2px dashed #c7b8fe;
+    margin: 30px 0;
+}
+
+/* TABLE & PLOT SPACING */
+.block-container {
+    padding-top: 2rem !important;
+    padding-bottom: 3rem !important;
+    max-width: 1400px;
+}
+
+/* MOBILE RESPONSIVE */
+@media only screen and (max-width: 540px) {
+    .main-app-title { font-size: 1.4em !important; }
+    .instruction-box-final { font-size: 0.93em; padding: 12px; margin: 20px auto; }
+    .stMetric { font-size: 1.0em; }
+    .stDataFrame, .stPlotlyChart { padding: 12px; margin: 18px 0; }
+    h2, h3 { font-size: 1.2em !important; }
+    .block-container { padding: 10px 15px !important; }
+}
+
+/* UPCOMING MATCHES CARDS */
+.upcoming-matches-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 28px;
+    justify-content: center;
+    margin: 32px 0;
+}
+.upcoming-match-card {
+    background: linear-gradient(135deg, #e4f0fb 70%, #ffe2f6 100%);
+    border: 2.5px solid #9a7efd;
+    box-shadow: 0 6px 26px #b8e0ff33;
+    border-radius: 24px;
+    min-width: 310px;
+    max-width: 350px;
+    padding: 26px 22px 20px 22px;
+    text-align: center;
+    font-family: 'Poppins', 'Montserrat', Arial, sans-serif;
+    font-size: 1.15em;
+    color: #3a3670;
+    margin-bottom: 22px;
+    position: relative;
+    transition: transform .15s, box-shadow .15s;
+}
+.upcoming-match-card:hover {
+    transform: translateY(-7px) scale(1.03);
+    box-shadow: 0 12px 34px #c7b8fe69;
+    border-color: #feb8d1;
+}
+
+.upcoming-match-title {
+    font-family: 'Montserrat', cursive;
+    font-size: 1.3em;
+    color: #9a7efd;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.upcoming-match-details {
+    margin: 8px 0 0 0;
+    font-size: 1.02em;
+    display: block;
+}
+
+.upcoming-match-date {
+    color: #ffd1e3;
+    font-weight: bold;
+    background: linear-gradient(90deg, #a1e8f7 70%, #ffe2f6 100%);
+    border-radius: 12px;
+    padding: 4px 12px;
+    font-size: 1.07em;
+    margin-top: 9px;
+    font-family: 'Poppins', cursive;
+    letter-spacing: 0.8px;
+}
+
+/* --- DARK MODE OVERRIDE --- */
+.dark-mode-theme {
+    /* Define Dark Mode Variables */
+    --primary-bg: #121212;
+    --accent: #2e3034;
+    --pink: #3d3447;
+    --purple: #6a6a9b;
+    --genz-green: #3a4b45;
+    --blue-pastel: #273746;
+    --deep: #f0f0f0; /* Light text color */
+    --accent-color: #7986cb; /* Lighter blue/purple accent */
+    --secondary-accent: #ff80ab; /* Bright pink accent */
+    --text-color: #e0e0e0;
+    --border-color: #444444;
+}
+
+.dark-mode-theme [data-testid="stAppViewContainer"] > .main {
+    background: linear-gradient(120deg, var(--primary-bg) 0%, #1a1a2e 56%, #282c34 100%);
+    color: var(--text-color);
+}
+
+.dark-mode-theme .main-app-title,
+.dark-mode-theme h2, .dark-mode-theme h3 {
+    background: linear-gradient(90deg, #3a3b4c 38%, #5d5d88 100%);
+    color: #e0e0e0;
+    box-shadow: 0px 6px 20px #0a0a0a50;
+    text-shadow: none;
+}
+
+.dark-mode-theme .stMetric {
+    background: linear-gradient(87deg, #2a2a4a 60%, #3e3e60 100%);
+    color: #f0f0f0;
+    box-shadow: 0 3px 18px #00000050;
+}
+
+.dark-mode-theme .instruction-box-final {
+    background: linear-gradient(90deg, #44446b 10%, #30304a 100%);
+    color: #f0f0f0;
+    border: 2.5px solid #7986cb;
+    box-shadow: 0 8px 24px #00000044;
+}
+
+.dark-mode-theme [data-testid="stSidebar"], .dark-mode-theme .stSidebar {
+    background: linear-gradient(120deg, #1f1f3a 10%, #29294f 78%, #3a3a5a 100%);
+    border-right: 3px solid #1a1a2e;
+}
+
+/* Dark mode for plots/data wrappers */
+.dark-mode-theme .stDataFrame, .dark-mode-theme .stPlotlyChart, .dark-mode-theme .stAlert, .dark-mode-theme .stTable {
+    background: #1c1c3a;
+    box-shadow: 0 3px 28px #00000050;
+}
+.dark-mode-theme .match-list-item {
+    background: linear-gradient(90deg, #2a2a4a 5%, #1c1c3a 98%);
+    border: 1px solid #444444;
+    box-shadow: 0 1px 10px #00000050;
+}
+
+/* --- DARK MODE BUTTON OVERRIDE --- */
+[data-testid="stSidebar"] div.stButton button {
+    width: 45px !important; 
+    height: 45px !important;
+    border-radius: 50% !important; 
+    font-size: 1.5em !important; 
+    padding: 0 !important;
+    display: block;
+    margin-left: auto;
+    background: linear-gradient(135deg, #f0f7ff 10%, #ffe2f6 90%) !important;
+    border: 3px solid var(--accent-color) !important;
+    box-shadow: 0 4px 15px rgba(154, 126, 253, 0.5) !important;
+    transition: transform .17s, box-shadow .17s;
+}
+
+/* Specific hover effect for our cute button */
+[data-testid="stSidebar"] div.stButton button:hover {
+    transform: scale(1.05) translateY(-2px) !important;
+    box-shadow: 0 6px 20px rgba(154, 126, 253, 0.8) !important;
+    border-color: var(--secondary-accent) !important;
+}
+
+/* --- FIX FOR ST.METRIC TEXT VISIBILITY IN DARK MODE --- */
+
+.dark-mode-theme [data-testid="stMetricLabel"] {
+    /* Use a light color for the label text */
+    color: var(--text-color) !important;
+}
+
+.dark-mode-theme [data-testid="stMetricValue"] {
+    /* Use a contrasting light color for the main value (e.g., your light accent color) */
+    color: var(--accent-color) !important;
+    font-weight: 700;
+}
+/* Optional: Fix for the delta/change indicator color if it's too dark */
+.dark-mode-theme [data-testid="stMetricDelta"] {
+    color: var(--text-color) !important;
+}

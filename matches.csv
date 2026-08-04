@@ -1,0 +1,107 @@
+Winner;Loser;Player;Runs/Goals;Venue;Date;Sport;Gender;Toss Decision
+
+India;Australia;Virat Kohli;186;Arun Jaitley Stadium;2023-03-09;Cricket;Men;Bat
+Australia;India;Travis Head;137;Wankhede Stadium;2023-11-19;Cricket;Men;Bowl
+New Zealand;England;Devon Conway;152;Lord's;2024-06-05;Cricket;Men;Bat
+Pakistan;Sri Lanka;Babar Azam;107;Gaddafi Stadium;2023-07-26;Cricket;Men;Bat
+Sunrisers Hyderabad;Mumbai Indians;Heinrich Klaasen;104;Rajiv Gandhi Stadium;2024-04-18;Cricket;Men;Bowl
+Rajasthan Royals;Chennai Super Kings;Yashasvi Jaiswal;124;Wankhede Stadium;2023-05-11;Cricket;Men;Bat
+Lucknow Super Giants;Royal Challengers Bangalore;Marcus Stoinis;65;M. Chinnaswamy Stadium;2024-04-15;Cricket;Men;Bowl
+Kolkata Knight Riders;Gujarat Titans;Rinku Singh;48;Eden Gardens;2023-04-09;Cricket;Men;Bowl
+Delhi Capitals;Punjab Kings;Rilee Rossouw;82;Himachal Pradesh Stadium;2023-05-17;Cricket;Men;Bat
+India;South Africa;Virat Kohli;76;Kensington Oval;2024-06-29;Cricket;Men;Bat
+South Africa;Afghanistan;Marco Jansen;3;Brian Lara Stadium;2024-06-27;Cricket;Men;Bat
+India;Pakistan;Jasprit Bumrah;3;Nassau County Stadium;2024-06-09;Cricket;Men;Bowl
+Mumbai Indians Women;Delhi Capitals Women;Hayley Matthews;65;Dr DY Patil Stadium;2023-03-09;Cricket;Women;Bowl
+Royal Challengers Bangalore Women;Gujarat Giants Women;Smriti Mandhana;98;M. Chinnaswamy Stadium;2024-03-03;Cricket;Women;Bat
+UP Warriorz Women;Gujarat Giants Women;Grace Harris;72;Wankhede Stadium;2023-03-05;Cricket;Women;Bat
+Australia Women;England Women;Ellyse Perry;91;Trent Bridge;2023-06-25;Cricket;Women;Bowl
+India Women;England Women;Jemimah Rodrigues;75;Wankhede Stadium;2023-12-09;Cricket;Women;Bat
+South Africa Women;New Zealand Women;Marizanne Kapp;80;Centurion;2024-01-02;Cricket;Women;Bowl
+New Zealand Women;West Indies Women;Sophie Devine;112;Sharjah;2024-10-18;Cricket;Women;Bat
+Manchester City;Real Madrid;Erling Haaland;3;Etihad Stadium;2023-05-17;Football;Men
+Arsenal;Tottenham Hotspur;Bukayo Saka;2;Emirates Stadium;2024-03-24;Football;Men
+Liverpool;Manchester United;Mohamed Salah;2;Anfield;2023-03-05;Football;Men
+Chelsea;Newcastle United;Cole Palmer;1;Stamford Bridge;2024-03-11;Football;Men
+Aston Villa;Brentford;Ollie Watkins;2;Villa Park;2024-04-06;Football;Men
+Brighton;Crystal Palace;Evan Ferguson;2;American Express Stadium;2024-02-03;Football;Men
+Barcelona;Real Madrid;Robert Lewandowski;1;Camp Nou;2023-03-19;Football;Men
+PSG;Bayern Munich;Kylian Mbappé;2;Parc des Princes;2023-04-11;Football;Men
+Manchester City;Arsenal;Phil Foden;2;Etihad Stadium;2024-04-03;Football;Men
+Chelsea Women;Manchester United Women;Sam Kerr;2;Kingsmeadow;2023-05-28;Football;Women
+Arsenal Women;Tottenham Hotspur Women;Alessia Russo;3;Emirates Stadium;2023-12-16;Football;Women
+Manchester City Women;Liverpool Women;Khadija Shaw;2;Academy Stadium;2024-03-17;Football;Women
+Barcelona Women;Real Madrid Women;Alexia Putellas;3;Estadi Johan Cruyff;2023-11-19;Football;Women
+Lyon Women;Paris Saint-Germain Women;Ada Hegerberg;2;Groupama Stadium;2024-02-17;Football;Women
+Wolfsburg Women;Arsenal Women;Ewa Pajor;1;AOK Stadium;2023-05-01;Football;Women
+Manchester United Women;Aston Villa Women;Ella Toone;2;Leigh Sports Village;2024-01-20;Football;Women
+India;Australia;Virat Kohli;186;Arun Jaitley Stadium;2022-03-09;Cricket;Men;Bat
+Australia;India;Travis Head;137;Wankhede Stadium;2022-11-19;Cricket;Men;Bat
+New Zealand;England;Devon Conway;152;Lord's;2023-06-05;Cricket;Men;Bat
+Pakistan;Sri Lanka;Babar Azam;107;Gaddafi Stadium;2022-07-26;Cricket;Men;Bat
+Sunrisers Hyderabad;Mumbai Indians;Heinrich Klaasen;104;Rajiv Gandhi Stadium;2023-04-18;Cricket;Men;Bowl
+Rajasthan Royals;Chennai Super Kings;Yashasvi Jaiswal;124;Wankhede Stadium;2022-05-11;Cricket;Men;Bat
+Lucknow Super Giants;Royal Challengers Bangalore;Marcus Stoinis;65;M. Chinnaswamy Stadium;2023-04-15;Cricket;Men;Bowl
+Kolkata Knight Riders;Gujarat Titans;Rinku Singh;48;Eden Gardens;2022-04-09;Cricket;Men;Bowl
+Delhi Capitals;Punjab Kings;Rilee Rossouw;82;Himachal Pradesh Stadium;2023-05-17;Cricket;Men;Bat
+India;South Africa;Virat Kohli;76;Kensington Oval;2023-06-29;Cricket;Men;Bat
+South Africa;Afghanistan;Marco Jansen;3;Brian Lara Stadium;2023-06-27;Cricket;Men;Bowl
+India;Pakistan;Jasprit Bumrah;3;Nassau County Stadium;2023-06-09;Cricket;Men;Bowl
+Mumbai Indians Women;Delhi Capitals Women;Hayley Matthews;65;Dr DY Patil Stadium;2022-03-09;Cricket;Women;Bowl
+Royal Challengers Bangalore Women;Gujarat Giants Women;Smriti Mandhana;98;M. Chinnaswamy Stadium;2023-03-03;Cricket;Women;Bat
+UP Warriorz Women;Gujarat Giants Women;Grace Harris;72;Wankhede Stadium;2022-03-05;Cricket;Women;Bat
+Australia Women;England Women;Ellyse Perry;91;Trent Bridge;2022-06-25;Cricket;Women;Bowl
+India Women;England Women;Jemimah Rodrigues;75;Wankhede Stadium;2022-12-09;Cricket;Women;Bat
+South Africa Women;New Zealand Women;Marizanne Kapp;80;Centurion;2023-01-02;Cricket;Women;Bowl
+New Zealand Women;West Indies Women;Sophie Devine;112;Sharjah;2023-10-18;Cricket;Women;Bat
+Manchester City;Real Madrid;Erling Haaland;3;Etihad Stadium;2022-05-17;Football;Men
+Arsenal;Tottenham Hotspur;Bukayo Saka;2;Emirates Stadium;2023-03-24;Football;Men
+Liverpool;Manchester United;Mohamed Salah;2;Anfield;2022-03-05;Football;Men
+Chelsea;Newcastle United;Cole Palmer;1;Stamford Bridge;2023-03-11;Football;Men
+Aston Villa;Brentford;Ollie Watkins;2;Villa Park;2023-04-06;Football;Men
+Brighton;Crystal Palace;Evan Ferguson;2;American Express Stadium;2023-02-03;Football;Men
+Barcelona;Real Madrid;Robert Lewandowski;1;Camp Nou;2022-03-19;Football;Men
+PSG;Bayern Munich;Kylian Mbappé;2;Parc des Princes;2023-04-11;Football;Men
+Manchester City;Arsenal;Phil Foden;2;Etihad Stadium;2023-04-03;Football;Men
+Chelsea Women;Manchester United Women;Sam Kerr;2;Kingsmeadow;2022-05-28;Football;Women
+Arsenal Women;Tottenham Hotspur Women;Alessia Russo;3;Emirates Stadium;2022-12-16;Football;Women
+Manchester City Women;Liverpool Women;Khadija Shaw;2;Academy Stadium;2023-03-17;Football;Women
+Barcelona Women;Real Madrid Women;Alexia Putellas;3;Estadi Johan Cruyff;2022-11-19;Football;Women
+Lyon Women;Paris Saint-Germain Women;Ada Hegerberg;2;Groupama Stadium;2023-02-17;Football;Women
+Wolfsburg Women;Arsenal Women;Ewa Pajor;1;AOK Stadium;2022-05-01;Football;Women
+Manchester United Women;Aston Villa Women;Ella Toone;2;Leigh Sports Village;2023-01-20;Football;Women
+India;Australia;Virat Kohli;186;Arun Jaitley Stadium;2024-03-09;Cricket;Men;Bat
+Australia;India;Travis Head;137;Wankhede Stadium;2024-11-19;Cricket;Men;Bowl
+New Zealand;England;Devon Conway;152;Lord's;2025-06-05;Cricket;Men;Bat
+Pakistan;Sri Lanka;Babar Azam;107;Gaddafi Stadium;2024-07-26;Cricket;Men;Bat
+Sunrisers Hyderabad;Mumbai Indians;Heinrich Klaasen;104;Rajiv Gandhi Stadium;2025-04-18;Cricket;Men;Bowl
+Rajasthan Royals;Chennai Super Kings;Yashasvi Jaiswal;124;Wankhede Stadium;2024-05-11;Cricket;Men;Bat
+Lucknow Super Giants;Royal Challengers Bangalore;Marcus Stoinis;65;M. Chinnaswamy Stadium;2025-04-15;Cricket;Men;Bowl
+Kolkata Knight Riders;Gujarat Titans;Rinku Singh;48;Eden Gardens;2024-04-09;Cricket;Men;Bowl
+Delhi Capitals;Punjab Kings;Rilee Rossouw;82;Himachal Pradesh Stadium;2025-05-17;Cricket;Men;Bat
+India;South Africa;Virat Kohli;76;Kensington Oval;2025-06-29;Cricket;Men;Bat
+South Africa;Afghanistan;Marco Jansen;3;Brian Lara Stadium;2025-06-27;Cricket;Men;Bowl
+India;Pakistan;Jasprit Bumrah;3;Nassau County Stadium;2025-06-09;Cricket;Men;Bat
+Mumbai Indians Women;Delhi Capitals Women;Hayley Matthews;65;Dr DY Patil Stadium;2024-03-09;Cricket;Women;Bowl
+Royal Challengers Bangalore Women;Gujarat Giants Women;Smriti Mandhana;98;M. Chinnaswamy Stadium;2025-03-03;Cricket;Women;Bat
+UP Warriorz Women;Gujarat Giants Women;Grace Harris;72;Wankhede Stadium;2024-03-05;Cricket;Women;Bat
+Australia Women;England Women;Ellyse Perry;91;Trent Bridge;2024-06-25;Cricket;Women;Bowl
+India Women;England Women;Jemimah Rodrigues;75;Wankhede Stadium;2024-12-09;Cricket;Women;Bat
+South Africa Women;New Zealand Women;Marizanne Kapp;80;Centurion;2025-01-02;Cricket;Women;Bowl
+New Zealand Women;West Indies Women;Sophie Devine;112;Sharjah;2025-10-18;Cricket;Women;Bat
+Manchester City;Real Madrid;Erling Haaland;3;Etihad Stadium;2024-05-17;Football;Men
+Arsenal;Tottenham Hotspur;Bukayo Saka;2;Emirates Stadium;2025-03-24;Football;Men
+Liverpool;Manchester United;Mohamed Salah;2;Anfield;2024-03-05;Football;Men
+Chelsea;Newcastle United;Cole Palmer;1;Stamford Bridge;2025-03-11;Football;Men
+Aston Villa;Brentford;Ollie Watkins;2;Villa Park;2025-04-06;Football;Men
+Brighton;Crystal Palace;Evan Ferguson;2;American Express Stadium;2025-02-03;Football;Men
+Barcelona;Real Madrid;Robert Lewandowski;1;Camp Nou;2024-03-19;Football;Men
+PSG;Bayern Munich;Kylian Mbappé;2;Parc des Princes;2024-04-11;Football;Men
+Manchester City;Arsenal;Phil Foden;2;Etihad Stadium;2025-04-03;Football;Men
+Chelsea Women;Manchester United Women;Sam Kerr;2;Kingsmeadow;2024-05-28;Football;Women
+Arsenal Women;Tottenham Hotspur Women;Alessia Russo;3;Emirates Stadium;2024-12-16;Football;Women
+Manchester City Women;Liverpool Women;Khadija Shaw;2;Academy Stadium;2025-03-17;Football;Women
+Barcelona Women;Real Madrid Women;Alexia Putellas;3;Estadi Johan Cruyff;2024-11-19;Football;Women
+Lyon Women;Paris Saint-Germain Women;Ada Hegerberg;2;Groupama Stadium;2025-02-17;Football;Women
+Wolfsburg Women;Arsenal Women;Ewa Pajor;1;AOK Stadium;2024-05-01;Football;Women
+Manchester United Women;Aston Villa Women;Ella Toone;2;Leigh Sports Village;2025-01-20;Football;Women

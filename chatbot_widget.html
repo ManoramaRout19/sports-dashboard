@@ -1,0 +1,28 @@
+<!-- chatbot_widget.html -->
+<button id="custom-chat-button">💬</button>
+<div id="custom-chat-modal">
+    <button id="custom-chat-close">×</button>
+    <div id="custom-chat-title">SportsBot</div>
+    <div id="custom-chat-area">Ask me sports-related questions!</div>
+    <input id="custom-chat-input" type="text" placeholder="Type your question..."></input>
+    <button id="custom-chat-submit">Send</button>
+</div>
+<script>
+const chatBtn = window.parent.document.getElementById('custom-chat-button');
+const chatModal = window.parent.document.getElementById('custom-chat-modal');
+const chatClose = window.parent.document.getElementById('custom-chat-close');
+const chatInput = window.parent.document.getElementById('custom-chat-input');
+const chatArea = window.parent.document.getElementById('custom-chat-area');
+const chatSubmit = window.parent.document.getElementById('custom-chat-submit');
+
+if(chatBtn && chatModal && chatClose){
+    chatBtn.onclick = () => chatModal.classList.toggle('show');
+    chatClose.onclick = () => chatModal.classList.remove('show');
+    chatSubmit.onclick = () => {
+        let question = chatInput.value;
+        if(question){
+            chatArea.innerHTML = "Sorry, server-side chat not linked. Try main page!";
+        }
+    }
+}
+</script>

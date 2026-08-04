@@ -1,0 +1,31 @@
+TeamA;TeamB;Venue;Date;Sport;Gender
+India;South Africa;Shaheed Veer Narayan Stadium, Raipur;2025-12-03;Cricket;Men
+Australia;England;The Gabba, Brisbane;2025-12-04;Cricket;Men
+India;South Africa;Dr YS Rajasekhara Stadium, Visakhapatnam;2025-12-06;Cricket;Men
+India;South Africa;Barabati Stadium, Cuttack;2025-12-09;Cricket;Men
+New Zealand;West Indies;Cello Basin Reserve, Wellington;2025-12-10;Cricket;Men
+India;South Africa;HPCA Stadium, Dharamsala;2025-12-14;Cricket;Men
+Perth Scorchers;Sydney Sixers;Optus Stadium, Perth;2025-12-14;Cricket;Men
+Australia;England;Adelaide Oval, Adelaide;2025-12-17;Cricket;Men
+India;South Africa;Narendra Modi Stadium, Ahmedabad;2025-12-19;Cricket;Men
+New Zealand;West Indies;Bay Oval, Tauranga;2025-12-25;Cricket;Men
+New Zealand;India;Eden Gardens, Kolkata;2026-01-11;Cricket;Men
+India;New Zealand;Wankhede Stadium, Mumbai;2026-01-21;Cricket;Men
+
+South Africa Women;Ireland Women;Newlands Cricket Ground, Cape Town;2025-12-05;Cricket;Women
+South Africa Women;Ireland Women;Boland Park, Paarl;2025-12-07;Cricket;Women
+South Africa Women;Ireland Women;Buffalo Park, East London;2025-12-13;Cricket;Women
+
+Manchester United;West Ham;Old Trafford;2025-12-04;Football;Men
+Manchester City;Sunderland;Etihad Stadium;2025-12-06;Football;Men
+Wolves;Manchester United;Molineux Stadium;2025-12-08;Football;Men
+Manchester United;Bournemouth;Old Trafford;2025-12-15;Football;Men
+Aston Villa;Manchester United;Villa Park;2025-12-21;Football;Men
+Manchester United;Newcastle;Old Trafford;2025-12-26;Football;Men
+Leeds United;Manchester United;Elland Road;2026-01-04;Football;Men
+Manchester United;Manchester City;Old Trafford;2026-01-17;Football;Men
+Arsenal;Manchester United;Emirates Stadium;2026-01-25;Football;Men
+
+Chelsea Women;Arsenal Women;Kingsmeadow;2025-12-20;Football;Women
+Manchester United Women;Manchester City Women;Leigh Sports Village;2026-01-11;Football;Women
+Tottenham Women;Liverpool Women;Brisbane Road;2026-01-21;Football;Women
